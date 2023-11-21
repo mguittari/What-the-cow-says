@@ -1,0 +1,14 @@
+{
+  "name": "project-cow",
+  "version": "1.0.0",
+  "description": "it's for a quest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt Guittari",
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
